@@ -20,7 +20,9 @@ git branch -u origin/main main
 
 powershell (권한 문제) : Set-ExecutionPolicy RemoteSigned
 
-react start : npm run start
+react start :
+ - npm install
+ - npm run start
 
 
 
